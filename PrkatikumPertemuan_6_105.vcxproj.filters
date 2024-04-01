@@ -18,5 +18,8 @@
     <ClCompile Include="PrkatikumPertemuan_6_105.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FileName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
